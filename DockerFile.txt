@@ -1,0 +1,9 @@
+docker login
+
+docker container exec jenkins-local5 sh -c "cat /var/jenkins_home/secrets/initialAdminPassword"
+
+docker pull shivakrishnaah/jenkins-nodejs
+
+docker container run  -p 8085:8080  -v C:/Users/VAMSI/Desktop/:/var/jenkins_home  --name jenkins-local5 shivakrishnaah/jenkins-nodejs
+
+docker container exec jenkins-local5 sh -c "cat /var/jenkins_home/secrets/initialAdminPassword"
