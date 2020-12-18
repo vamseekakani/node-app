@@ -11,8 +11,9 @@ Pre-requisites:
 6. FireFox or Chrome 
 
 Scripts: Refer "Src" folder
-To Run the Code: Copy the Scripts into Local folder.
-        from gitbash $ ./node_modules/.bin/wdio
+
+Steps to execute Code: 1. Copy the Scripts into Local folder.
+                       2. From gitbash $ ./node_modules/.bin/wdio
 
 Steps:
 1.	Create package.json file and install necessary npm packages required for preparation 
