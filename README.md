@@ -8,6 +8,7 @@ Pre-requisites:
 3.	Npm Packages
 4.	Git Hub 
 5.	Power Shell Script
+6. FireFox or Chrome 
 
 
 Steps:
