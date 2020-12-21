@@ -13,7 +13,7 @@ Pre-requisites:
 Scripts: Refer "Src" folder
 
 Steps to execute Code: 1. Copy the Scripts into Local folder.
-                       2. From gitbash $ ./node_modules/.bin/wdio
+                       2. From gitbash $ npm test
 
 Steps:
 1.	Create package.json file and install necessary npm packages required for preparation 
