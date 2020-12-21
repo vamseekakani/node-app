@@ -12,8 +12,9 @@ Pre-requisites:
 
 Scripts: Refer "Src" folder
 
-Steps to execute Code: 1. Copy the Scripts into Local folder.
-                       2. From gitbash $ npm test
+Steps to execute Code: 1. Download the Entire Project(Zip) into Local folder where Node_Modules is present.
+                       2. Open gitbash from the local where project is downloaded 
+                       2. From git bash run the command $ npm test
 
 Steps:
 1.	Create package.json file and install necessary npm packages required for preparation 
